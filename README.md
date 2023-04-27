@@ -1,8 +1,9 @@
 # Real-Time Array Graph
 
-![Screenshot_20230419-100356 (1)](https://user-images.githubusercontent.com/87845234/233698329-6e173288-7dfa-46a9-8cd6-49164193e6be.png)
-
 A React Native app that generates a random JavaScript array and plots the values in a graph in real-time.
+![Screenshot (143)](https://user-images.githubusercontent.com/87845234/234735645-9c2abbb1-98b8-4bf5-9401-3aacdec7d660.png)
+
+![Screenshot_20230419-100356 (1)](https://user-images.githubusercontent.com/87845234/233698329-6e173288-7dfa-46a9-8cd6-49164193e6be.png)
 
 ## Description
 
